@@ -107,8 +107,8 @@ www-Variante hebt das `canonical` wieder auf. Prüfgriff vor jeder Behauptung, e
 
 ### Zwei Zielsysteme, beide müssen synchron sein
 
-1. **GitHub Repo** (`danielzaiser91/arturs-webseite`, origin) → **GitHub Pages**, live unter
-   `https://danielzaiser91.github.io/arturs-webseite/`
+1. **GitHub Repo** (`derNamenloseDaniel/arturs-webseite`, origin) → **GitHub Pages**, live unter
+   `https://dernamenlosedaniel.github.io/arturs-webseite/`
 2. **lima-city FTP-Webspace** (`ace2001.lima-ftp.de`, FTPS Port 21) → **Produktivseite**, live unter
    `https://westerwald-pianoservice.de`. Zugangsdaten: `C:\code\ai\ai helper files\my_secrets.md`,
    Abschnitt "Arturs Website (Westerwald-Pianoservice) — FTP Filehost lima-city.de".
